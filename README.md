@@ -4,3 +4,4 @@ Yana bitta PR!
 ## Men haqimda
 Salom! Men Behruzbekman, Junior Front-end dasturchiman.
 ### Men foydalanadigan texnologiyalar:
+* HTML5 va CSS3
