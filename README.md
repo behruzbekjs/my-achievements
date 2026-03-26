@@ -10,3 +10,4 @@ Salom! Men Behruzbekman, Junior Front-end dasturchiman.
 Hozirda portfoliom ustida ishlayapman.
 ### Bog'lanish:
 Telegram: Zevarjon Narmetova
+### Qiziqishlarim:
