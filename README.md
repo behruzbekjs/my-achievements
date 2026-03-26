@@ -6,3 +6,4 @@ Salom! Men Behruzbekman, Junior Front-end dasturchiman.
 ### Men foydalanadigan texnologiyalar:
 * HTML5 va CSS3
 * JavaScript (ES6+)
+### Mening loyihalarim:
