@@ -8,3 +8,4 @@ Salom! Men Behruzbekman, Junior Front-end dasturchiman.
 * JavaScript (ES6+)
 ### Mening loyihalarim:
 Hozirda portfoliom ustida ishlayapman.
+### Bog'lanish:
