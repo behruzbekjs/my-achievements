@@ -11,3 +11,4 @@ Hozirda portfoliom ustida ishlayapman.
 ### Bog'lanish:
 Telegram: Zevarjon Narmetova
 ### Qiziqishlarim:
+* Ochiq manbali loyihalar (Open Source)
