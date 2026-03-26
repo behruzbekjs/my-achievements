@@ -13,3 +13,4 @@ Telegram: Zevarjon Narmetova
 ### Qiziqishlarim:
 * Ochiq manbali loyihalar (Open Source)
 * Yangi nishonlar yig'ish
+## Mening maqsadim: Full-stack bo'lish!
