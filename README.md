@@ -12,3 +12,4 @@ Hozirda portfoliom ustida ishlayapman.
 Telegram: Zevarjon Narmetova
 ### Qiziqishlarim:
 * Ochiq manbali loyihalar (Open Source)
+* Yangi nishonlar yig'ish
