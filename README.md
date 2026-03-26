@@ -14,3 +14,4 @@ Telegram: Zevarjon Narmetova
 * Ochiq manbali loyihalar (Open Source)
 * Yangi nishonlar yig'ish
 ## Mening maqsadim: Full-stack bo'lish!
+### 16-chi PR muvaffaqiyatli yakunlandi! 🔥
