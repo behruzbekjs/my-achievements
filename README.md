@@ -17,3 +17,4 @@ Telegram: Zevarjon Narmetova
 ### 16-chi PR muvaffaqiyatli yakunlandi! 🔥
 ### 🦈 Pull Shark Challenge: Level x3
 - **Status:** Level x2 Achieved ✅
+- **Current Goal:** Level x3 (128 Merged Pull Requests) 🎯
