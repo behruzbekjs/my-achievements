@@ -16,3 +16,4 @@ Telegram: Zevarjon Narmetova
 ## Mening maqsadim: Full-stack bo'lish!
 ### 16-chi PR muvaffaqiyatli yakunlandi! 🔥
 ### 🦈 Pull Shark Challenge: Level x3
+- **Status:** Level x2 Achieved ✅
