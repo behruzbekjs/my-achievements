@@ -18,3 +18,6 @@ Telegram: Zevarjon Narmetova
 ### 🦈 Pull Shark Challenge: Level x3
 - **Status:** Level x2 Achieved ✅
 - **Current Goal:** Level x3 (128 Merged Pull Requests) 🎯
+Fixed the responsive layout issues
+
+Co-authored-by: behruzbekjs <behruzbekmadiyarov8@gmail.com>
