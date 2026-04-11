@@ -21,3 +21,4 @@ Telegram: Zevarjon Narmetova
 Fixed the responsive layout issues
 
 Co-authored-by: behruzbekjs <behruzbekmadiyarov8@gmail.com>
+Men bo'lajak dasturchiman
