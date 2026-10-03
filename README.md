@@ -29,3 +29,4 @@ feat: add social media contact badges
 style: optimize dark mode color contrast
 perf: improve image loading speed in assets
 refactor: clean up unused html tags
+docs: add detailed full-stack skills section
