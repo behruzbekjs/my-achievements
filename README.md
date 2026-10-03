@@ -1,4 +1,4 @@
-# my-achievements
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/663d9d4d-4029-43eb-a741-934875c5db35" /># my-achievements
 YOLO Badge test
 Yana bitta PR!
 ## Men haqimda
@@ -22,4 +22,4 @@ Fixed the responsive layout issues
 
 Co-authored-by: behruzbekjs <behruzbekmadiyarov8@gmail.com>
 Men bo'lajak dasturchiman
-18-chi test PR
+23-chi test PR
