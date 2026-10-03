@@ -24,3 +24,4 @@ Men bo'lajak dasturchiman
 23-chi test PR
 24-chi test PR
 docs: update readme profile structure
+fix: resolve responsive layout spacing issues
