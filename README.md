@@ -1007,3 +1007,4 @@ Gold Pull Shark Achievement Milestone: 1004
 Gold Pull Shark Achievement Milestone: 1005
 Gold Pull Shark Achievement Milestone: 1006
 Gold Pull Shark Achievement Milestone: 1007
+Gold Pull Shark Achievement Milestone: 1008
