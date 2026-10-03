@@ -26,3 +26,4 @@ Men bo'lajak dasturchiman
 docs: update readme profile structure
 fix: resolve responsive layout spacing issues
 feat: add social media contact badges
+style: optimize dark mode color contrast
