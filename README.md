@@ -34,3 +34,4 @@ feat: introduce current project roadmap
 Automated PR achievement badge number: 33
 Automated PR achievement badge number: 34
 Automated PR achievement badge number: 35
+Automated PR achievement badge number: 36
