@@ -571,3 +571,4 @@ Gold Pull Shark Achievement Milestone: 568
 Gold Pull Shark Achievement Milestone: 569
 Gold Pull Shark Achievement Milestone: 570
 Gold Pull Shark Achievement Milestone: 571
+Gold Pull Shark Achievement Milestone: 572
