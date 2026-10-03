@@ -25,3 +25,4 @@ Men bo'lajak dasturchiman
 24-chi test PR
 docs: update readme profile structure
 fix: resolve responsive layout spacing issues
+feat: add social media contact badges
